@@ -28,13 +28,13 @@ Logistic Regression
 
 📈 Performance Metrics
 
-Accuracy: XX%
+Accuracy: 87%
 
-Precision: XX%
+Precision: 77.78%
 
-Recall: XX%
+Recall: 80.33%
 
-F1-Score: XX%
+F1-Score: 79.03%
 
 🔍 Features
 
